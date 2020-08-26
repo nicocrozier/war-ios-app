@@ -1,2 +1,2 @@
-# war-ios-app
+# War ios app
 Card game "War" app using Swift &amp; Xocde
